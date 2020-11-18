@@ -54,8 +54,8 @@ Para backend:
 
 ```sh
   npm i
-  npm run dev -> Para backend
-  npm start -> Para frontend
+  npm run dev >> Para backend
+  npm start >> Para frontend
 ```
 
-Esse foi cansado :sleepy:
+Esse foi cansado :sleepy: :v:
