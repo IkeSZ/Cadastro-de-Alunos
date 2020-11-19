@@ -6,7 +6,7 @@ Uma aplicação que consiste em um cadastro de alunos.
 
 # Detalhes
 
-* Na parte de design eu tirei como GRANDE inspiração o site da [Rocketseat](https://rocketseat.com.br)
+* Na parte de design eu tirei como GRANDE inspiração o site da [Rocketseat](https://rocketseat.com.br) (quase um UI clone rsrs)
 * A parte de responsividade ainda não foi feita.
 
 ---
