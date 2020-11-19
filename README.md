@@ -25,7 +25,7 @@ Uma aplicação que consiste em um cadastro de alunos.
 
 Para frontend:
 
-* [Javascript](https://www.javascript.com/)
+* [JavaScript](https://www.javascript.com/)
 * [React](https://reactjs.org/)
 * [styled-components](https://styled-components.com)
 * [Redux](https://redux.js.org)
